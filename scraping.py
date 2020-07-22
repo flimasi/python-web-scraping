@@ -1,3 +1,6 @@
+# Scraping Url target
+# author Felipe Lima <felipe@felipelima.eti.br>
+
 import bs4
 from datetime import datetime
 import requests
